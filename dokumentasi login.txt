@@ -1,0 +1,10 @@
+Login
+
+
+Untuk login Superadmin : username = sadmin
+		    password = asd
+
+Untuk login kasir : username = kasir
+		   password = kasir
+
+Untuk mengakses dokumentasi http://localhost/inven/dokumentasi
